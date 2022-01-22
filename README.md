@@ -1,4 +1,7 @@
 # goblockchain
 A simple blockchain in golang
 
-## Part 2
+## Building:
+```
+$ go run main.go 
+```
